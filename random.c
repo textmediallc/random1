@@ -15,3 +15,4 @@ int result = random_int(max);
 printf("%d\n", result);
 return EXIT_SUCCESS;
 }
+Made some changes
